@@ -5,15 +5,14 @@ My Stars in a formated list
 - [Awesome Lists](#awesome-lists)
 
 ## Awesome Lists
-- [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
-- https://github.com/kahun/awesome-sysadmin
+- [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) or https://github.com/kahun/awesome-sysadmin
 - [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)
-- https://github.com/alexellis/awesome-baremetal
-- https://github.com/awesome-selfhosted/awesome-selfhosted
-- https://github.com/snipsco/awesome-snips
+- [baremetal](https://github.com/alexellis/awesome-baremetal)
+- [selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [snips](https://github.com/snipsco/awesome-snips)
 
 ## SailfishOS
-- https://github.com/sailfishos-community/awesome-sailfishos
+- [awesome list](https://github.com/sailfishos-community/awesome-sailfishos)
 - https://github.com/fuchsmich/zutun.txt
 - https://github.com/llewelld/harbour-contrac
 - https://github.com/savegame/sailfish_godot_rpm
@@ -27,15 +26,17 @@ My Stars in a formated list
 ## GoDot
 
 ## Wikis
-- https://github.com/Requarks/wiki
-- https://github.com/facebook/docusaurus
-- https://github.com/BookStackApp/BookStack
+- [Requarks](https://github.com/Requarks/wiki)
+- [docusaurus](https://github.com/facebook/docusaurus)
+- [BookStack](https://github.com/BookStackApp/BookStack)
 
 ## Kubernetes
+- https://github.com/eon01/kubectl-SheetCheat
 - https://github.com/knrt10/kubernetes-basicLearning
+- https://github.com/geerlingguy/kubernetes-101
 
 ## Terraform
-- https://github.com/minamijoyo/tfschema
+- [tfshema](https://github.com/minamijoyo/tfschema)
 - https://github.com/terraform-linters/tflint
 - https://github.com/oVirt/terraform-provider-ovirt
 - https://github.com/chrislewisdev/prettyplan
@@ -45,3 +46,18 @@ My Stars in a formated list
 ## Golang
 - https://github.com/GoAdminGroup/go-admin
 - https://github.com/gophish/gophish
+
+## GitHub
+- https://github.com/SanderKnape/github-runner
+
+## Selfhosted Stuff
+- https://github.com/Yooooomi/your_spotify
+- https://github.com/jonaswinkler/paperless-ng
+- https://github.com/range-of-motion/budget
+- https://github.com/Villarrealized/sonos-web
+- https://github.com/inoda/ontrack
+- https://github.com/zadam/trilium
+
+## Flying Stuff
+- https://github.com/opacopac/navplan
+- https://github.com/JamesStallworthy/Flight-LogBook
